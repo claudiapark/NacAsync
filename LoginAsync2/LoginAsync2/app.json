@@ -1,0 +1,12 @@
+{
+  "name": "LoginAsync2",
+  "displayName": "LoginAsync2",
+  "expo": {
+    "name": "LoginAsync2",
+    "slug": "LoginAsync2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
